@@ -1,6 +1,10 @@
 # Deep Research Orchestrator
 
-**[Watch the Demo Video](./demo.mp4)**
+
+
+https://github.com/user-attachments/assets/1b84ec4f-73cd-4969-bf01-a3f063ad71ea
+
+
 
 
 This project is an AI-powered deep research assistant. It leverages an **Agent Orchestration** pattern to break down complex research queries into a multi-step workflow. Instead of relying on a single AI model to try and answer a broad question, this system uses specialized agents to plan a research strategy, execute web searches, synthesize findings into a comprehensive markdown report, and finally email the report to a designated recipient.
