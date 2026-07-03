@@ -1,6 +1,15 @@
 # Deep Research Orchestrator
 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat&logo=openai&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_Search-000000?style=flat)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
+
+
 
 https://github.com/user-attachments/assets/1b84ec4f-73cd-4969-bf01-a3f063ad71ea
 
@@ -91,3 +100,11 @@ This will start the FastAPI backend on `http://localhost:8001`.
 This will start the React frontend on `http://localhost:5173` (or 5174/5175 if busy).
 
 Navigate to `http://localhost:5173` in your browser to start your deep research!
+
+---
+
+<p align="center">
+  Built by <a href="https://profile-64ef8.firebaseapp.com/">Ramveer Singh</a> · 
+  <a href="https://www.linkedin.com/in/ramveer7up/">LinkedIn</a> · 
+  <a href="https://github.com/ramveer93">GitHub</a>
+</p>
